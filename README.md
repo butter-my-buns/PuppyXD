@@ -1,1 +1,1 @@
-# puppyxd.github.io
+# puppyxd

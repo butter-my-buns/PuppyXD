@@ -1,0 +1,52 @@
+.container-fluid{padding:3% 15%;}
+
+h1{margin-bottom: 20px;font-family: 'Ubuntu', sans-serif;  font-size: 6rem;  line-height: 1.0;text-align: left;/*color: #40514E;*/font-weight: bolder;}
+body{font-family: 'Montserrat', sans-serif;}
+.navbar{padding: 0 0 0 10.5rem;}
+.about{background-color: white;}
+.container-fluid{background-color: #FFF8BC;}
+.navbar-brand{font-size: 1.75rem;font-weight: bolder;}
+.nav-item{padding: 0 10px;}
+.navbar-nav{margin-left: 50px;padding: 1.5%;}
+.nav-link{font-size: 1.25rem;}
+.download-button{margin: 5% 3% 5% 0;display: inline-block;}
+.doggie{width: 180%;margin:15% 15% 15% 0;padding-left: 5%;padding-right: 35%;}
+#features{padding: 7% 15%;}
+
+
+.feature-box{text-align: center;padding: 2%;} 
+/*to centre algn contents inside the inner box*/
+/*add padding so text comes upar and neeche rather than single line*/
+
+h3{font-family:Montserrat;font-weight: bolder;margin-bottom: 1.5rem;}
+p{color: #40514E;margin-top: 1.5rem;margin-bottom: 1rem;}
+li{line-height: 1.75;}
+#services{color: white;}
+
+.icon{color:#FFCB42;font-size: 3rem;margin-bottom: 1rem;}
+.icon:hover {color:#FFF8BC;}
+.services{width: 20%;height: 20%;}
+.carousel-inner{text-align: center;padding: 2%;background-color:#FFF8BC;}
+
+.services{border-radius: 15%;}
+
+/*.card-body{text-align: center;}*/
+
+/*.card{background-color: yellow;}*/
+
+#pricing{padding: 2%;margin: auto;text-align: center;}
+
+.container{text-align: center;}
+
+.pricing-column{padding: 3% 2%;}
+
+#ending{text-align: center; background-color:#FFCB42;padding: 2%;}
+.footer{padding: 0.5%;margin-bottom: 0%;}
+/*padding between logos for space between them*/
+
+
+.service-text{color: black;}
+.card-text{margin-bottom: 0;color: black;}
+
+#ending{height: 220px;}
+
